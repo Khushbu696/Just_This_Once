@@ -2,7 +2,7 @@
 
 *A 2D visual novel about kindness, boundaries, and self-respect.*
 
-![Game Cover](images/Game_Cover.png)
+![Game Cover](Images/Game_Cover.png)
 
 ## 📖 About the Game
 
